@@ -8,3 +8,5 @@ dev: L1derrFrog.
 
 Points to take in care
 - .nav is not working right now.
+
+<ahref="https://pastebin.com/u/PlutonicalAcid_>My pastebin</a>
