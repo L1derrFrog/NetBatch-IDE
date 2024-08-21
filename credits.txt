@@ -1,0 +1,8 @@
+//------------------------//
+NetBatch IDE v1.0 
+Free and open source.
+
+
+----------------------:
+Created by L1derrFrog
+https://github.com/L1derrFrog
