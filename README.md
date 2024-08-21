@@ -9,4 +9,7 @@ dev: L1derrFrog.
 Points to take in care
 - .nav is not working right now.
 
-<ahref="https://pastebin.com/u/PlutonicalAcid_>My pastebin</a>
+<a href="https://https://pastebin.com/u/PlutoAcid_" target="_blank">
+    <img src="![image](https://github.com/user-attachments/assets/d150ed2b-064e-47ff-8220-aa8a1e8329a6)
+" alt="My PasteBin">
+</a>
