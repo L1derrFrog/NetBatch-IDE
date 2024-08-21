@@ -12,7 +12,7 @@ Points to take in care
 # Social:
 
 <a href="https://pastebin.com/u/PlutoAcid_" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d150ed2b-064e-47ff-8220-aa8a1e8329a6" alt="Pastebin" width="100">
+    <img src="https://github.com/user-attachments/assets/d150ed2b-064e-47ff-8220-aa8a1e8329a6" alt="Pastebin" width="80">
 </a>
 
 <a href="https://www.youtube.com/@L1derrFrog" target="_blank">
