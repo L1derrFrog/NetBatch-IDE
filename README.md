@@ -10,6 +10,6 @@ Points to take in care
 - .nav is not working right now.
 
 <a href="https://pastebin.com/u/PlutoAcid_" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d150ed2b-064e-47ff-8220-aa8a1e8329a6" alt="Pastebin">
+    <img src="https://github.com/user-attachments/assets/d150ed2b-064e-47ff-8220-aa8a1e8329a6" alt="Pastebin" width="200">
 </a>
 
